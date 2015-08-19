@@ -41,8 +41,10 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-	background: url(../psid.png) no-repeat center scroll;   
-	background-color: #E0F0FF;
+	background: url(../img/psid3.png) repeat center scroll;   
+	background-color: #33CCCC;
+	/* #30D6FF; */
+	/* #E0F0FF; */
     
 }
 
@@ -50,13 +52,21 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-	background: url(../psid.png) no-repeat center scroll;   
-    background-color: #FFFFD6;
+	background: url(../img/psid4.png) repeat center scroll;   
+    background-color: #FFFF82;
+	/* #FFFFD6; */
+}
+.testimonial-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+	background: url(../img/psid5.png) repeat center scroll;   
+    background-color: #FF896C;
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-	background: url(../psid.png) no-repeat center scroll;   
+	background: url(../img/psid.png) repeat center scroll;   
     background-color: #eee;
 }

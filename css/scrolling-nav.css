@@ -42,31 +42,26 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
 	background: url(../img/psid3.png) repeat center scroll;   
-	background-color: #33CCCC;
-	/* #30D6FF; */
-	/* #E0F0FF; */
-    
+	background-color: #33CCCC;  
 }
-
 .services-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
 	background: url(../img/psid4.png) repeat center scroll;   
     background-color: #FFFF82;
-	/* #FFFFD6; */
 }
 .testimonial-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
 	background: url(../img/psid5.png) repeat center scroll;   
-    background-color: #FF896C;
+    background-color: #FF3030;
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
-	background: url(../img/psid.png) repeat center scroll;   
+    text-align: float;
+	background: url(../img/psid.png) repeat center scroll; 
     background-color: #eee;
 }
